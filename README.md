@@ -1,5 +1,30 @@
 # 💫 About Me:
-## About Me<br><br>Hi, I’m **Shahid Bilal**, a passionate and motivated **GIT & AI learner** from Kashmir. I have a strong interest in **Web Development, Python, Artificial Intelligence, and modern technology**.<br><br>I enjoy learning new technologies, building creative projects, and improving my programming skills. I’m currently developing my knowledge in **Core Python, OOP, Pandas, NumPy, Data Visualization, Git, and AI fundamentals**.<br><br>My goal is to become a skilled developer and use technology to create **modern, useful, and innovative digital solutions**.<br>
+# 👋 Hi, I'm Shahid Bilal
+
+### 💻 GIT & AI Learner | Python Developer | Web Developer
+
+I'm **Shahid Bilal**, a passionate learner exploring **Artificial Intelligence, Python, Web Development and Git/GitHub**.
+
+## 🚀 What I'm Learning
+
+* 🐍 Python & OOP
+* 📊 Pandas, NumPy & Data Visualization
+* 🤖 Artificial Intelligence & Machine Learning
+* 🌐 HTML, CSS & JavaScript
+* 🔧 Git & GitHub
+* 🧠 LLM & AI Fundamentals
+
+
+
+I’m continuously building projects to improve my development and AI skills.
+
+## 🎯 Goal
+
+My goal is to become a skilled **AI & Software Developer** and create useful technology solutions.
+
+
+
+> **Learn • Build • Improve • Repeat 🚀**
 
 
 ## 🌐 Socials:
